@@ -1,0 +1,34 @@
+{
+   "itens":[
+      {
+         "nome":"Macarronada Vegetariana",
+         "preço":15.50,
+         "imagem":"/img/ben-lei-flFd8L7_B3g-unsplash.jpeg",
+         "descricao":"Macarrão penne ao molho de tomate e soja bolonhesa",
+         "categoria":[
+            "massa",
+            "vetegariano"
+         ]
+      },
+      {
+         "nome":"Bolo de bacia",
+         "preço":5.50,
+         "imagem":"/img/sara-cervera-FAnSK-gVGZU-unsplash.jpeg",
+         "descricao":"Bolo de bacia com cobertura de chantilly e cereja",
+         "categoria":[
+            "bolos",
+            "sobremesa"
+         ]
+      },
+      {
+         "nome":"Pizza de rúcula",
+         "preço":25.50,
+         "imagem":"/img/saundarya-srinivasan-60nzTP7_hMQ-unsplash.jpeg",
+         "descricao":"Pizza de rúcula com molho de tomate e queijo",
+         "categoria":[
+            "massa",
+            "pizza"
+         ]
+      }
+   ]
+}
